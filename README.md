@@ -1,2 +1,17 @@
 # Personalized_cancer_Diagnosis
-&lt;h1> Data Overview &lt;/h1> - Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data - We have two data files: one conatins the information about the genetic mutations and the other contains the clinical evidence (text) that  human experts/pathologists use to classify the genetic mutations.  - Both these data files are have a common column called ID - &lt;p>      Data file's information:     &lt;ul>          &lt;li>         training_variants (ID , Gene, Variations, Class)         &lt;/li>         &lt;li>         training_text (ID, Text)         &lt;/li>     &lt;/ul> &lt;/p>
+<h1> Data Overview </h1>
+  
+ Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+- We have two data files: one conatins the information about the genetic mutations and the other contains the clinical evidence (text) that  human experts/pathologists use to classify the genetic mutations. 
+- Both these data files are have a common column called ID
+- <p> 
+    Data file's information:
+    <ul> 
+        <li>
+        training_variants (ID , Gene, Variations, Class)
+        </li>
+        <li>
+        training_text (ID, Text)
+        </li>
+    </ul>
+</p>
